@@ -7,7 +7,7 @@ Based on article: https://www.howtogeek.com/716407/how-to-change-the-default-sys
 
 ![Screenshot](/SS/SS-1.png)
 
-![Screenshot](/SS/SS-2.png)
+![Screenshot](/SS/SS-2.jpg)
 
 NOTES:
 - Application requires elevated privileges to be able to make changes
